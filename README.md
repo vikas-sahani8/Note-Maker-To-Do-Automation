@@ -7,7 +7,7 @@
 The platform includes essential features such as:
 - 🔐 **User Registration & Secure Login**
 - 📦 **To-Do Management: Add/edit/delete tasks, mark as complete**
-- 🤝 **Note Management: Create/edit/delete notes, rich-text formatting, save & reloadt**
+- 🤝 **Note Management: Create/edit/delete notes, rich-text formatting, save & reload**
 - 🛒 **Responsive UI: Behavior across mobile, tablet, and desktop layouts**
 
 This test plan outlines the **manual and automation testing** strategy to ensure that all functionalities operate as intended, providing a **user-friendly** and **high-performance** experience across various devices and browsers. 🌍📱💻
@@ -15,48 +15,39 @@ This test plan outlines the **manual and automation testing** strategy to ensure
 ---
 
 🔬 Project Type
-This project involves both manual and automation testing using Selenium. We apply the Page Object Model (POM) design pattern to enhance maintainability and reusability. 🏗️
+This project involves both manual and automation testing using Selenium. We apply the Page Object Model (POM) design pattern to enhance maintainability and reusability.
 
 🧪 Our Testing Strategy Covers:
-✅ Functionality – Ensuring core features work correctly 🧩
-✅ Usability – Checking ease of use and user experience 🎨
-✅ Compatibility – Validating across different browsers and devices 🌐
-✅ Performance Testing – Observing behavior under load using Developer Tools 🚀
+✅ Functionality – Ensuring core features work correctly 
+✅ Usability – Checking ease of use and user experience 
+✅ Compatibility – Validating across different browsers and devices 
+✅ Performance Testing – Observing behavior under load using Developer Tools 
 
 ## 🌐 Deployed Application
 🔗 Access the website here: [**Note-Maker-To-Do**](https://notes-makers.vercel.app/)
 
 ---
 
-## 🛠️ Usage Guide
-This project is designed for **testers and developers** to ensure the **quality and performance** of the Note-Maker-To-Do website. 🏗️🧪
-
-- **View Test Reports** 📊 - Generate and analyze results
-- **Identify & Log Bugs** 🐞 - Track defects using the bug report document
-- **Extend Test Cases** 🏗️ - Add new test cases following the **POM structure**
-
----
-
 ## 📝 Test Plan
-Our test plan describes our approach to testing the **Note-Maker-To-Do** website, including the features to be tested and the testing timeline. 📅✅
+Our test plan describes our approach to testing the **Note-Maker-To-Do** website, including the features to be tested and the testing timeline.
 📄 **Full Test Plan**: [View Here](https://docs.google.com/document/d/14yevoGLo1hjc3hldkhWIMZvyJcOSKJpvnfEXL7H_QBU/edit?tab=t.0)
 
 ---
 
 ## 🔎 Test Scenarios & Test Cases
-Ensuring that key features like **user registration, login, and password recovery** work as expected. 🎯
+Ensuring that key features like **user registration, login, and password recovery** work as expected. 
 📑 **Detailed Test Scenarios & Cases**: [View Here](https://docs.google.com/spreadsheets/d/16Tj93NvijKAyZbV8qwv5ngsQ5-qCFWEurYJXtoVVG40/edit?gid=0#gid=0)
 
 ---
 
 ## 🐞 Bug Reports
-Defects are logged with details, including **steps to reproduce, severity, and resolution status**. 🎯
+Defects are logged with details, including **steps to reproduce, severity, and Priorities**.
 🐞 **Bug Report**: [View Here](https://docs.google.com/spreadsheets/d/1j2SFOYSPkh7jsfOpr1Y3OcqhXthSr529qG3FpojhxJ0/edit?gid=0#gid=0)
 
 ---
 
 ## 📊 Test Summary Report
-Provides an overview of the testing process, **what was tested, the results, and issues found**. 🚀
+Provides an overview of the testing process, **what was tested, the results, and issues found**.
 📊 **Test Summary Report**: [View Here](https://docs.google.com/document/d/1tmgD3UQkujdiMCH_HCTKZ0PimJrwCG4R14EBijjHviA/edit?tab=t.0#heading=h.gm7pziixxpf6)
 
 ---
@@ -101,17 +92,19 @@ Provides an overview of the testing process, **what was tested, the results, and
 The **Note-Maker-To-Do** website is built using the following technologies:
 
 ### 🔍 **Testing Tools**
-- **Selenium** - End-to-end testing ⚡
-- **Google Sheets** - Documenting test cases & logging defects 📜
-- **Google Docs** - Documentation & collaboration 📑
-- **Google Drive** - Storing test reports & assets ☁️
+- **Selenium Web Driver**  
+- **TestNg Framework**
+- **POM Architecture**  
+- **Google Sheets** 
+- **Google Docs** 
+- **Google Drive**
 
 ---
 
 ## 🎯 Conclusion
-The **Note-Maker-To-Do** automation testing project ensures a **high-quality, seamless, and secure e-commerce experience** for wine enthusiasts. ✨
+The **Note-Maker-To-Do** testing project ensures users get a **high-quality experience**. ✨
 
-By combining **manual and automation testing** with ** and POM**, we enhance the **efficiency, maintainability, and reliability** of our tests. 🚀✅
+By combining **manual and automation testing** with **POM Architecture**, we enhance the **efficiency, maintainability, and reliability** of our tests.
 
 ---
 
