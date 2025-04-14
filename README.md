@@ -22,7 +22,6 @@ This project involves both manual and automation testing using Selenium. We appl
 ✅ Usability – Checking ease of use and user experience 🎨
 ✅ Compatibility – Validating across different browsers and devices 🌐
 ✅ Performance Testing – Observing behavior under load using Developer Tools 🚀
----
 
 ## 🌐 Deployed Application
 🔗 Access the website here: [**Note-Maker-To-Do**](https://notes-makers.vercel.app/)
