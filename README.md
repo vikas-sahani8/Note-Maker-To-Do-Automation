@@ -93,7 +93,7 @@ Provides an overview of the testing process, **what was tested, the results, and
 ---
 
 ## 🎥 Video Walkthrough of the Project
-📹 **Project Presentation Video**: [Here]
+📹 **Project Presentation Video**: [Here](https://drive.google.com/file/d/10W3YyNcLNBj1Th8hL0Wa67XXi3b4pDVC/view?usp=drive_link)
 
 ---
 
