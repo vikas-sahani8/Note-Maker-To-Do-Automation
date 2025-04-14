@@ -14,14 +14,14 @@ This test plan outlines the **manual and automation testing** strategy to ensure
 
 ---
 
-## 🔬 Project Type
-This project incorporates both **manual and automation testing** using **Selenium**. We leverage the **Page Object Model (POM)** to structure our Selenium automation tests, enhancing **maintainability and reusability**. 🏗️
+🔬 Project Type
+This project involves both manual and automation testing using Selenium. We apply the Page Object Model (POM) design pattern to enhance maintainability and reusability. 🏗️
 
-## Our Testing Strategy Covers:
-✅ **Functionality** - Ensuring core features work correctly 🏗️ </br>
-✅ **Usability** - Checking ease of use and user experience 🎨</br>
-✅ **Compatibility** - Validating performance across different browsers and devices 🌐</br>
-✅ **Performance Testing** - Observe app behavior under typical load using Developer Tools </br>
+🧪 Our Testing Strategy Covers:
+✅ Functionality – Ensuring core features work correctly 🧩
+✅ Usability – Checking ease of use and user experience 🎨
+✅ Compatibility – Validating across different browsers and devices 🌐
+✅ Performance Testing – Observing behavior under load using Developer Tools 🚀
 ---
 
 ## 🌐 Deployed Application
